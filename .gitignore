@@ -1,0 +1,8 @@
+/.env
+/.env.example
+/atf-py-packgs.txt
+/bert-model-files
+/model
+/model_builder.ipynb
+/srp-atf-code-zip.zip
+/__pycache__
